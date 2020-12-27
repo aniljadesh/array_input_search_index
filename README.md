@@ -8,7 +8,6 @@ for i in range(n):
 print(arr)
 
 val = int(input("enter the search value"))
-
 k = 0
 for e in arr:
     if e == val:
